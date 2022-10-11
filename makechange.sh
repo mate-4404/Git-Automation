@@ -2,7 +2,7 @@ git status
 #lists new or modified files not yet committed
 
 git diff #{file...}
-#list down changes and conflicts
+#list down changes and conflicts ok>?
 
 git reset #{file.....}
 #unstages file,keeping the file changes
